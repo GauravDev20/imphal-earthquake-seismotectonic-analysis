@@ -1,0 +1,5 @@
+pygmt
+obspy
+pandas
+numpy
+matplotlib
